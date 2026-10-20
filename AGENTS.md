@@ -11,7 +11,7 @@ This workspace is a collection of related repositories and hardware artifacts:
 - `web/` is the static GitHub Pages site (`index.html`, `scripts.js`, `styles.css`, and `assets/`).
 - `archives/` preserves historical PCB and 3D-print designs. Treat archived files as reference material, not current build inputs.
 
-Many component directories are independent Git repositories or submodules. Run commands from the relevant component directory.
+Software components are tracked as ordinary folders in this repository. Run component-specific build and test commands from the relevant component directory.
 
 ## Build, Test, and Development Commands
 

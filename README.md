@@ -20,6 +20,13 @@ The archived files are not the current Arduino hardware or manufacturing instruc
 
 ## Repositories
 
+The software components below are now tracked as ordinary folders in this
+repository: [SurRoL](SurRoL/), [opensurgbot_SurRoL](opensurgbot_SurRoL/),
+[opensurgbot_pipeline](opensurgbot_pipeline/), and
+[opensurgbot_kinevizu](opensurgbot_kinevizu/). A normal clone includes their
+committed files; no submodule initialization is needed for these components.
+The external links below identify the original upstream projects.
+
 | Repository | Description |
 |------------|-------------|
 | [opensurgbot](https://github.com/lgabp1/opensurgbot) | opensurgbot root repository |

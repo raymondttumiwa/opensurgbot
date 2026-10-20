@@ -2,3 +2,14 @@
 .venv_surrol/
 .tmp/
 .vscode
+
+# Generated Python files
+__pycache__/
+*.py[cod]
+*.egg-info/
+wandb/
+wandb/
+
+# Historical root checkouts; preserved files are tracked under archives/.
+/opensurgbot_board/
+/opensurgbot_3Dprinted/
