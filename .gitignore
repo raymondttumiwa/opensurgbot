@@ -13,3 +13,6 @@ wandb/
 # Historical root checkouts; preserved files are tracked under archives/.
 /opensurgbot_board/
 /opensurgbot_3Dprinted/
+
+# Local device connection state
+.opensurgbot_state/
